@@ -38,7 +38,7 @@ It is a Covid-19, Pneumonia and Normal Chest X-ray detection Web-App 🖥 where 
 You can find the video demonstration of the project from [here](https://github.com/JuhieMotiani/Diagnosticc/blob/main/Implementation%20Video.mp4).
 
 ## Facing any issues???
-Feel free to [open an issue](https://github.com/juhiemotiani/Diagnosticc/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
+Feel free to [open an issue](https://github.com/iamdhrutipatel/Diagnosticc/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
 
 ## Developers
 1. [Juhie Motiani](https://github.com/JuhieMotiani)
